@@ -64,7 +64,7 @@
     "mappings.translation.another.namespace": "다른 네임스페이스로 번역하기",
     "mappings.translation.another.version": "다른 버전으로 번역하기",
     "mappings.translation.n/a": "N/A",
-    "mappings.search.type": "검색 종류",
+    "mappings.search.type": "검색 유형:",
     "mappings.search.type.classes": "클래스",
     "mappings.search.type.methods": "메서드",
     "mappings.search.type.fields": "필드",
